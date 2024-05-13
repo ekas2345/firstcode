@@ -1,0 +1,14 @@
+h1{
+    color: blue
+}
+p{
+    color: blueviolet;
+}
+
+th{
+    background-color: green;
+}
+table,th,td{
+    margin: 20px auto;
+    border:1px solid;
+}
