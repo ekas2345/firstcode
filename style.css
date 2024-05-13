@@ -11,6 +11,7 @@ th{
 table,th,td{
     margin: 20px auto;
     border:1px solid;
+    border-collapse: collapse;
 }
 img{
     display: block;
